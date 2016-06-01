@@ -43,7 +43,7 @@
     <ClCompile Include="..\..\src\ardrone\version.cpp">
       <Filter>Source Files\ardrone</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\sample_default.cpp">
+    <ClCompile Include="sample_default.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
